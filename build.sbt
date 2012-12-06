@@ -7,10 +7,12 @@ organization := "com.github.jsuereth"
 
 name := "sperformance"
 
-version := "0.1"
+version := "0.1-2.10-RC3"
 
-scalaVersion := "2.10.0-M6"
+scalaVersion := "2.10.0-RC3"
 
 resolvers += "Typesafe Repository" at "http://repo.typesafe.com/typesafe/releases/"
 
 resolvers += "Sonatype OSS Snapshots" at "https://oss.sonatype.org/content/repositories/snapshots"
+
+
